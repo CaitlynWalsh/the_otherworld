@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "otherworld:block/emberia/cinderbark_planks",
+    "side": "otherworld:block/emberia/cinderbark_planks",
+    "top": "otherworld:block/emberia/cinderbark_planks"
+  }
+}

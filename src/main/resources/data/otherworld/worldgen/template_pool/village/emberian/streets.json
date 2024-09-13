@@ -1,0 +1,28 @@
+{
+  "name": "otherworld:village/emberian/streets",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "rigid",
+        "location": "otherworld:village/emberian/streets/street_0",
+        "processors": {
+          "processors": []
+        }
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "rigid",
+        "location": "otherworld:village/emberian/streets/street_1",
+        "processors": {
+          "processors": []
+        }
+      }
+    }
+  ]
+}

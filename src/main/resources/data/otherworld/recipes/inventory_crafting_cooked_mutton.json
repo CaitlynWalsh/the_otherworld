@@ -1,0 +1,15 @@
+{
+  "type": "otherworld:inventory_crafting",
+  "ingredients": [
+    {
+      "item": "minecraft:mutton"
+    }
+  ],
+  "amounts": [
+    1
+  ],
+  "result": {
+    "item": "minecraft:cooked_mutton",
+    "count": 1
+  }
+}

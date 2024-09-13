@@ -1,0 +1,17 @@
+{
+  "name": "otherworld:village/oni/paths",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "rigid",
+        "location": "otherworld:village/oni/paths/path_0",
+        "processors": {
+          "processors": []
+        }
+      }
+    }
+  ]
+}

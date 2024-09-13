@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_farmland",
+  "textures": {
+      "dirt": "otherworld:block/roseia/rose_quartz_soil",
+      "top": "otherworld:block/roseia/rose_quartz_farmland_moist"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_farmland",
+  "textures": {
+    "dirt": "otherworld:block/emberia/lava_soaked_soot",
+    "top": "otherworld:block/emberia/lava_soaked_soot"
+  }
+}

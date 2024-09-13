@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "otherworld:block/emberia/ash",
+    "up": "otherworld:block/emberia/cindergrass_block_top",
+    "north": "otherworld:block/emberia/cindergrass_block_side",
+    "east": "#north",
+    "south": "#north",
+    "west": "#north",
+    "particle": "#down"
+  }
+}

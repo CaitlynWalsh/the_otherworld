@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "charged=true": {
+      "model": "otherworld:block/otherly_spawner_charged"
+    },
+    "charged=false": {
+      "model": "otherworld:block/otherly_spawner"
+    }
+  }
+}

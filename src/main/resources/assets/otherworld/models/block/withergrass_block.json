@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "otherworld:block/underlands/duststone",
+    "up": "otherworld:block/underlands/withergrass_block_top",
+    "north": "otherworld:block/underlands/withergrass_block_side",
+    "east": "#north",
+    "south": "#north",
+    "west": "#north",
+    "particle": "#down"
+  }
+}

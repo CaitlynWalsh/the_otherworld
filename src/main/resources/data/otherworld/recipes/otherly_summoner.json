@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GOG",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "O": {
+      "item": "otherworld:otheran_eye"
+    }
+  },
+  "result": {
+    "item": "otherworld:otherly_summoner",
+    "count": 1
+  }
+}

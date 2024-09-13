@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "otherworld:block/rose_quartz_brick_slab"
+    },
+    "type=double": {
+      "model": "otherworld:block/rose_quartz_bricks"
+    },
+    "type=top": {
+      "model": "otherworld:block/rose_quartz_brick_slab_top"
+    }
+  }
+}

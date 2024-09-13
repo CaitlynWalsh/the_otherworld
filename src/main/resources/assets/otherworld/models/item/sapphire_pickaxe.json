@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "otherworld:item/glaceia/sapphire_pickaxe"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "otherworld:rosegold_ingot"
+    }
+  ],
+  "result": {
+    "item": "otherworld:rosegold_nugget",
+    "count": 9
+  }
+}

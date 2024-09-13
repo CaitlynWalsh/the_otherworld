@@ -1,0 +1,22 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.kitcaitie.otherworld.mixins",
+  "refmap": "otherworld.refmap.json",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "client.LivingEntityRendererMixin",
+    "client.PlayerRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "mixins": [
+    "EntityMixin",
+    "LayerLightStorageMixin",
+    "LivingEntityMixin",
+    "PlayerMixin",
+    "ServerLevelMixin",
+    "VillagerMixin"
+  ]
+}

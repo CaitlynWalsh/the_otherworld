@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "otherworld:cobbled_deepstone",
+    "otherworld:cobbled_witherstone",
+    "otherworld:ashstone",
+    "otherworld:froststone"
+  ]
+}

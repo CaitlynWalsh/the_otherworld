@@ -1,0 +1,17 @@
+{
+  "name": "otherworld:village/fairie/fairies",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "rigid",
+        "location": "otherworld:village/fairie/fairie",
+        "processors": {
+          "processors": []
+        }
+      }
+    }
+  ]
+}

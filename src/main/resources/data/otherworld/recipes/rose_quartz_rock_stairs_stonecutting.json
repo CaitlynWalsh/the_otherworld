@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "otherworld:rose_quartz_rock"
+  },
+  "result": "otherworld:rose_quartz_rock_stairs",
+  "count": 1
+}

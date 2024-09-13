@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/door_top_right_open",
+  "textures": {
+    "bottom": "otherworld:block/emberia/topaz_bar_door_locked_bottom",
+    "top": "otherworld:block/emberia/topaz_bar_door_locked_top"
+  },
+  "render_type": "cutout"
+}

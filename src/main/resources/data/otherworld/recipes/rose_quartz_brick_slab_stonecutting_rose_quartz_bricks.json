@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "otherworld:rose_quartz_bricks"
+  },
+  "result": "otherworld:rose_quartz_brick_slab",
+  "count": 2
+}

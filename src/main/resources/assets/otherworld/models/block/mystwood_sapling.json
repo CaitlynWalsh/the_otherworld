@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "otherworld:block/enchantia/mystwood_sapling"
+  },
+  "render_type": "cutout"
+}

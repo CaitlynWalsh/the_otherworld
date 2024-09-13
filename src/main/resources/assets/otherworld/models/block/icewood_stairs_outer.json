@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "otherworld:block/glaceia/icewood_planks",
+    "side": "otherworld:block/glaceia/icewood_planks",
+    "top": "otherworld:block/glaceia/icewood_planks"
+  }
+}

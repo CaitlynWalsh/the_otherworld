@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "otherworld:mystwood_planks"
+    }
+  },
+  "result": {
+    "item": "otherworld:mystwood_stairs",
+    "count": 4
+  }
+}

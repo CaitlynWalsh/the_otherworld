@@ -1,0 +1,97 @@
+{
+  "temperature": 0.95,
+  "downfall": 0.8,
+  "has_precipitation": true,
+  "effects": {
+    "sky_color": 8060883,
+    "fog_color": 3571048,
+    "water_color": 4122082,
+    "water_fog_color": 1407352,
+    "grass_color": 3969086,
+    "foliage_color": 3044911,
+    "particle": {
+      "options": {
+        "type": "minecraft:spore_blossom_air"
+      },
+      "probability": 0.005
+    }
+  },
+  "spawners": {
+    "ambient": [
+      {
+        "type": "otherworld:phlymp",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 4
+      },
+      {
+        "type": "otherworld:whisp",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "axolotls": [],
+    "monster": [
+      {
+        "type": "minecraft:slime",
+        "weight": 100,
+        "minCount": 1,
+        "maxCount": 2
+      }
+    ],
+    "underground_water_creature": [],
+    "water_ambient": [
+      {
+        "type": "otherworld:fighting_fish",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "water_creature": [],
+    "creature": [
+      {
+        "type": "minecraft:frog",
+        "weight": 6,
+        "minCount": 1,
+        "maxCount": 3
+      }
+    ],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "otherworld:jade_ores_placed"
+    ],
+    [],
+    [],
+    [
+      "otherworld:mosswood_tree_placed",
+      "minecraft:bamboo_light",
+      "minecraft:patch_grass_jungle",
+      "minecraft:patch_sugar_cane",
+      "minecraft:vines",
+      "otherworld:moss_pool_dripleaf_placed",
+      "minecraft:patch_melon",
+      "minecraft:patch_waterlily",
+      "minecraft:cave_vines",
+      "minecraft:seagrass_swamp"
+    ],
+    []
+  ]
+}

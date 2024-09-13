@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#otherworld:rosewood_logs",
+    "#otherworld:mystwood_logs",
+    "#otherworld:redspruce_logs",
+    "#otherworld:mosswood_logs",
+    "#otherworld:willow_logs"
+  ]
+}

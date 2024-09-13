@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "otherworld:block/roseia/rosewood_planks",
+    "side": "otherworld:block/roseia/rosewood_planks",
+    "top": "otherworld:block/roseia/rosewood_planks"
+  }
+}

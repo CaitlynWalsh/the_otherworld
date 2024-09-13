@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "otherworld:block/otherworld_portal_ns"
+    },
+    "axis=z": {
+      "model": "otherworld:block/otherworld_portal_ew"
+    }
+  }
+}

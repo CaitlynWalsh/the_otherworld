@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column_horizontal",
+  "textures": {
+    "end": "otherworld:block/roseia/stripped_rosewood_log_top",
+    "side": "otherworld:block/roseia/stripped_rosewood_log_side"
+  }
+}

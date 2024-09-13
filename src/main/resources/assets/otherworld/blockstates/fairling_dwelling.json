@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=east,full=false": {
+      "model": "otherworld:block/fairling_dwelling",
+      "y": 90
+    },
+    "facing=north,full=false": {
+      "model": "otherworld:block/fairling_dwelling"
+    },
+    "facing=south,full=false": {
+      "model": "otherworld:block/fairling_dwelling",
+      "y": 180
+    },
+    "facing=west,full=false": {
+      "model": "otherworld:block/fairling_dwelling",
+      "y": 270
+    },
+    "facing=east,full=true": {
+      "model": "otherworld:block/fairling_dwelling",
+      "y": 90
+    },
+    "facing=north,full=true": {
+      "model": "otherworld:block/fairling_dwelling"
+    },
+    "facing=south,full=true": {
+      "model": "otherworld:block/fairling_dwelling",
+      "y": 180
+    },
+    "facing=west,full=true": {
+      "model": "otherworld:block/fairling_dwelling",
+      "y": 270
+    }
+  }
+}

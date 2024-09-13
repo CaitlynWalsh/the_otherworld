@@ -1,0 +1,36 @@
+{
+  "name": "otherworld:ancient_temple/stone",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "rigid",
+        "location": "otherworld:ancient_temple/ancient_temple_stone",
+        "processors": {
+          "processors": [
+            {
+              "processor_type": "minecraft:rule",
+              "rules": [
+                {
+                  "location_predicate": {
+                    "predicate_type": "minecraft:always_true"
+                  },
+                  "input_predicate": {
+                    "predicate_type": "minecraft:random_block_match",
+                    "block": "minecraft:stone_bricks",
+                    "probability": 0.2
+                  },
+                  "output_state": {
+                    "Name": "minecraft:cracked_stone_bricks"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

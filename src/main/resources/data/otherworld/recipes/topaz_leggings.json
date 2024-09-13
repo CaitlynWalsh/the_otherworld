@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X X",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "otherworld:topaz"
+    }
+  },
+  "result": {
+    "item": "otherworld:topaz_leggings"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column_horizontal",
+  "textures": {
+    "end": "otherworld:block/roseia/roserye_hayblock_top",
+    "side": "otherworld:block/roseia/roserye_hayblock_side"
+  }
+}

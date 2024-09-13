@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X#X",
+    "X X",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "otherworld:rosegold_nugget"
+    },
+    "#": {
+      "item": "otherworld:rose_quartz_shard"
+    }
+  },
+  "result": {
+    "item": "otherworld:rose_quartz_ring",
+    "count": 2
+  }
+}

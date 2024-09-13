@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "features": [
+    ],
+    "default": "otherworld:cinderbark_tree_natural_placed"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "otherworld:block/emberia/cinderbark_leaves"
+  }
+}

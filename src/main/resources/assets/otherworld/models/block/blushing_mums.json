@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "otherworld:block/roseia/blushing_mums"
+  },
+  "render_type": "cutout"
+}

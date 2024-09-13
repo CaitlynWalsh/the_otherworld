@@ -1,0 +1,7 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "otherworld:block/emberia/spiceroot_stage_5"
+  },
+  "render_type": "cutout"
+}

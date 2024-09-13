@@ -1,0 +1,15 @@
+{
+  "values": [
+    "minecraft:grass_block",
+    "minecraft:dirt",
+    "minecraft:coarse_dirt",
+    "otherworld:rosegrass_block",
+    "otherworld:rose_quartz_soil",
+    "otherworld:mystic_moss",
+    "otherworld:enchanted_soil",
+    "otherworld:permafrost",
+    "otherworld:frostsilt",
+    "otherworld:cindergrass_block",
+    "otherworld:ash_block"
+  ]
+}

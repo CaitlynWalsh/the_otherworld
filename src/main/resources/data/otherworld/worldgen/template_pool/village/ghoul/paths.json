@@ -1,0 +1,28 @@
+{
+  "name": "otherworld:village/ghoul/paths",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 4,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "rigid",
+        "location": "otherworld:village/ghoul/paths/connector_0",
+        "processors": {
+          "processors": []
+        }
+      }
+    },
+    {
+      "weight": 6,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "rigid",
+        "location": "otherworld:village/ghoul/paths/path_0",
+        "processors": {
+          "processors": []
+        }
+      }
+    }
+  ]
+}

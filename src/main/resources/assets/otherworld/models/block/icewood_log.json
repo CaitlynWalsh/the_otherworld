@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "otherworld:block/glaceia/icewood_log_top",
+    "side": "otherworld:block/glaceia/icewood_log_side"
+  }
+}

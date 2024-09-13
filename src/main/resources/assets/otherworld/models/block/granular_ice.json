@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_farmland",
+  "textures": {
+    "dirt": "otherworld:block/glaceia/granular_ice",
+    "top": "otherworld:block/glaceia/granular_ice"
+  }
+}

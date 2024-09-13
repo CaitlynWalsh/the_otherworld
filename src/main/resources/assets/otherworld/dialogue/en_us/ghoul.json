@@ -1,0 +1,14 @@
+{
+  "neutral.ghoul.male.traveler.villager.male": ["You must be the new recruit.", "Welcome to the clan, brother.", "You must speak with our leader. They will teach you our ways."],
+  "neutral.ghoul.female.traveler.villager.male": ["You must be the new recruit.", "Welcome to the clan, sister.", "You must speak with our leader. They will teach you our ways."],
+  "neutral.ghoul.male.traveler.villager.female": ["You seem new here. Did The Undertaker bring you?", "Do not be afraid. You are one of us now.", "Our leader will show you the way. You must speak with them."],
+  "neutral.ghoul.female.traveler.villager.female": ["You seem new here, sister. Did The Undertaker bring you?", "Do not be afraid, sister. You are one of us now.", "Our leader will help you see into the darkness."],
+  "neutral.ghoul.male.traveler.baby.male": ["Hello! Are you new to the family?", "The Underlands is so pretty, isn't it? Well, maybe to you it's spooky.", "Sometimes I like to watch the souls rise. It's sad to see them leave though."],
+  "neutral.ghoul.male.traveler.baby.female": ["Hello there.", "Are you scared? Don't be scared.", "Sometimes I miss my parents, but I have a new family now."],
+  "neutral.ghoul.female.traveler.baby.male": ["Hello! Are you new to the family?", "The Underlands is so pretty, isn't it? Well, maybe to you it's spooky.", "Sometimes I like to watch the souls rise. It's sad to see them leave though."],
+  "neutral.ghoul.female.traveler.baby.female": ["Hello there.", "Are you scared? Don't be scared.", "Sometimes I miss my parents, but I have a new family now."],
+  "neutral.ghoul.male.traveler.traveler.male.vanisher": ["You will thank me.", "The Undertaker will come for you.", "Your death is just the beginning, brother."],
+  "neutral.ghoul.female.traveler.traveler.male.vanisher": ["You will thank me.", "The Undertaker will come for you.", "Your death is just the beginning, sister."],
+  "neutral.ghoul.male.traveler.traveler.male.undertaker": ["Welcome to the Underlands, brother.", "You will grow to like this place.", "Embrace your new life, brother."],
+  "neutral.ghoul.female.traveler.traveler.male.undertaker": ["Welcome to the Underlands, sister.", "You will grow to like this place.", "Embrace your new life, sister."]
+}

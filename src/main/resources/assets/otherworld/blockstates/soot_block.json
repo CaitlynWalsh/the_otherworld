@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "moisture=0": {
+      "model": "otherworld:block/soot_block"
+    },
+    "moisture=1": {
+      "model": "otherworld:block/soot_block"
+    },
+    "moisture=2": {
+      "model": "otherworld:block/soot_block"
+    },
+    "moisture=3": {
+      "model": "otherworld:block/soot_block"
+    },
+    "moisture=4": {
+      "model": "otherworld:block/soot_block"
+    },
+    "moisture=5": {
+      "model": "otherworld:block/soot_block"
+    },
+    "moisture=6": {
+      "model": "otherworld:block/soot_block"
+    },
+    "moisture=7": {
+      "model": "otherworld:block/soot_block_lava_soaked"
+    }
+  }
+}

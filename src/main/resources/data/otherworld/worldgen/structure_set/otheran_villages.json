@@ -1,0 +1,30 @@
+{
+  "structures": [
+    {
+      "structure": "otherworld:oni_camp",
+      "weight": 7
+    },
+    {
+      "structure": "otherworld:fairie_village",
+      "weight": 4
+    },
+    {
+      "structure": "otherworld:roseian_town",
+      "weight": 6
+    },
+    {
+      "structure": "otherworld:emberian_city",
+      "weight": 4
+    },
+    {
+      "structure": "otherworld:iceian_settlement",
+      "weight": 5
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 7928345,
+    "spacing": 9,
+    "separation": 6
+  }
+}

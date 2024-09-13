@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "otherworld:ruined_otheran_portal_oasia",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 2142038969,
+    "spacing": 12,
+    "separation": 8
+  }
+}

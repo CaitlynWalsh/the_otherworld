@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "otherworld:deepstone",
+    "otherworld:cobbled_deepstone",
+    "otherworld:rose_quartz_rock",
+    "otherworld:rose_quartz_rock_slab",
+    "otherworld:rose_quartz_rock_stairs",
+    "otherworld:rose_quartz_bricks",
+    "otherworld:rose_quartz_brick_slab",
+    "otherworld:rose_quartz_brick_stairs",
+    "otherworld:rose_quartz_crystal",
+    "otherworld:lapistone",
+    "otherworld:opal_ore",
+    "otherworld:ashstone",
+    "otherworld:topaz_ore",
+    "otherworld:jade_ore",
+    "otherworld:frostsilt",
+    "otherworld:permafrost",
+    "otherworld:froststone",
+    "otherworld:sapphire_ore",
+    "otherworld:deepstone_iron_ore",
+    "otherworld:deepstone_coal_ore",
+    "otherworld:rosegold_ore",
+    "otherworld:duststone",
+    "otherworld:withergrass_block",
+    "otherworld:witherstone",
+    "otherworld:cobbled_witherstone",
+    "otherworld:onyx_ore",
+    "otherworld:crimson_diamond_ore"
+  ]
+}

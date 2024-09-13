@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "otherworld:block/mystwood_slab"
+    },
+    "type=double": {
+      "model": "otherworld:block/mystwood_planks"
+    },
+    "type=top": {
+      "model": "otherworld:block/mystwood_slab_top"
+    }
+  }
+}

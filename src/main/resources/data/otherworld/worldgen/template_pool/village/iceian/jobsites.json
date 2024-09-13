@@ -1,0 +1,28 @@
+{
+  "name": "otherworld:village/iceian/jobsites",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 6,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "rigid",
+        "location": "otherworld:village/iceian/jobsites/farmer_0",
+        "processors": {
+          "processors": []
+        }
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "rigid",
+        "location": "otherworld:village/iceian/jobsites/cook_0",
+        "processors": {
+          "processors": []
+        }
+      }
+    }
+  ]
+}

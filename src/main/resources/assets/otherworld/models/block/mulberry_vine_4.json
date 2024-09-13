@@ -1,0 +1,7 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "otherworld:block/enchantia/mulberry_vine_stage_4"
+  },
+  "render_type": "cutout"
+}

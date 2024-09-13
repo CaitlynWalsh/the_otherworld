@@ -1,0 +1,81 @@
+{
+  "temperature": -1,
+  "downfall": 0.5,
+  "has_precipitation": true,
+  "temperature_modifier": "frozen",
+  "effects": {
+    "sky_color": 12771839,
+    "fog_color": 13426943,
+    "water_color": 2962857,
+    "water_fog_color": 329011,
+    "grass_color": 7255512,
+    "foliage_color": 5348546,
+    "particle": {
+      "options": {
+        "type": "minecraft:white_ash"
+      },
+      "probability": 0.005
+    }
+  },
+  "spawners": {
+    "ambient": [
+      {
+        "type": "otherworld:phlymp",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 4
+      },
+      {
+        "type": "otherworld:whisp",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "axolotls": [],
+    "creature": [
+      {
+        "type": "otherworld:snowpaka",
+        "weight": 3,
+        "minCount": 3,
+        "maxCount": 6
+      }
+    ],
+    "misc": [],
+    "monster": [],
+    "underground_water_creature": [],
+    "water_ambient": [],
+    "water_creature": []
+  },
+  "spawn_costs": {},
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
+  "features": [
+    [
+      "otherworld:glaceia_snow_pool_placed"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "otherworld:sapphire_ores_placed"
+    ],
+    [],
+    [],
+    [
+      "otherworld:trees_glaceia_placed",
+      "otherworld:flowers_glaceia_placed",
+      "otherworld:frostweed_patch_placed"
+    ],
+    [
+      "minecraft:freeze_top_layer"
+    ]
+  ]
+}

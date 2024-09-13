@@ -1,0 +1,17 @@
+{
+  "name": "otherworld:village/emberian/center",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "rigid",
+        "location": "otherworld:village/emberian/center/church_0",
+        "processors": {
+          "processors": []
+        }
+      }
+    }
+  ]
+}

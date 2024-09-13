@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "otherworld:block/underlands/willow_log_top",
+    "side": "otherworld:block/underlands/stripped_willow_log_side"
+  }
+}

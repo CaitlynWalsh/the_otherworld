@@ -1,0 +1,26 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 96369675,
+    "separation": 10,
+    "spacing": 24
+  },
+  "structures": [
+    {
+      "structure": "otherworld:ancient_temple_mossy",
+      "weight": 5
+    },
+    {
+      "structure": "otherworld:ancient_temple_desert",
+      "weight": 5
+    },
+    {
+      "structure": "otherworld:ancient_temple_stone",
+      "weight": 5
+    },
+    {
+      "structure": "otherworld:ancient_temple_muddy",
+      "weight": 1
+    }
+  ]
+}

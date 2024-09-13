@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "otherworld:block/deepwoods/thornberry_bush_stage1"
+  },
+  "render_type": "cutout"
+}

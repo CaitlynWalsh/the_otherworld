@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "moisture=0": {
+      "model": "otherworld:block/rose_quartz_farmland"
+    },
+    "moisture=1": {
+      "model": "otherworld:block/rose_quartz_farmland"
+    },
+    "moisture=2": {
+      "model": "otherworld:block/rose_quartz_farmland"
+    },
+    "moisture=3": {
+      "model": "otherworld:block/rose_quartz_farmland"
+    },
+    "moisture=4": {
+      "model": "otherworld:block/rose_quartz_farmland"
+    },
+    "moisture=5": {
+      "model": "otherworld:block/rose_quartz_farmland"
+    },
+    "moisture=6": {
+      "model": "otherworld:block/rose_quartz_farmland"
+    },
+    "moisture=7": {
+      "model": "otherworld:block/rose_quartz_farmland_moist"
+    }
+  }
+}

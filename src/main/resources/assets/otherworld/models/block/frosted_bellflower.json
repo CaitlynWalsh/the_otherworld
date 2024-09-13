@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "otherworld:block/glaceia/frosted_bellflower"
+  },
+  "render_type": "cutout"
+}

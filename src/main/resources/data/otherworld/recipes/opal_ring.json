@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    "X X",
+    " X "
+  ],
+  "key": {
+    "X": {
+      "item": "otherworld:opal"
+    }
+  },
+  "result": {
+    "item": "otherworld:opal_ring",
+    "count": 2
+  }
+}

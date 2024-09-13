@@ -1,0 +1,15 @@
+{
+  "type": "otherworld:inventory_crafting",
+  "ingredients": [
+    {
+      "item": "otherworld:roserye"
+    }
+  ],
+  "amounts": [
+    3
+  ],
+  "result": {
+    "item": "otherworld:roserye_bread",
+    "count": 1
+  }
+}

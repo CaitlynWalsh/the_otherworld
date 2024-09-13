@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "otherworld:block/underlands/willow_planks",
+    "side": "otherworld:block/underlands/willow_planks",
+    "top": "otherworld:block/underlands/willow_planks"
+  }
+}

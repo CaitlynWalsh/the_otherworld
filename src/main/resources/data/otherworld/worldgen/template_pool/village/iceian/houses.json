@@ -1,0 +1,28 @@
+{
+  "name": "otherworld:village/iceian/houses",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "rigid",
+        "location": "otherworld:village/iceian/houses/small_house_0",
+        "processors": {
+          "processors": []
+        }
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "rigid",
+        "location": "otherworld:village/iceian/houses/large_house_0",
+        "processors": {
+          "processors": []
+        }
+      }
+    }
+  ]
+}

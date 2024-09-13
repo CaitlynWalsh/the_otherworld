@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "otherworld:cinderbark_planks"
+    }
+  },
+  "result": {
+    "item": "otherworld:cinderbark_stairs",
+    "count": 4
+  }
+}

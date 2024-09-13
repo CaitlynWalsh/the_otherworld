@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "otherworld:block/roseia/rose_quartz_soil",
+    "up": "otherworld:block/roseia/rosegrass_block_top",
+    "north": "otherworld:block/roseia/rosegrass_block_side",
+    "east": "#north",
+    "south": "#north",
+    "west": "#north",
+    "particle": "#down"
+  }
+}

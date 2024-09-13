@@ -1,0 +1,77 @@
+{
+  "temperature": 0.8,
+  "downfall": 0.2,
+  "has_precipitation": true,
+  "effects": {
+    "sky_color": 6186355,
+    "fog_color": 5990784,
+    "water_color": 2697512,
+    "water_fog_color": 2039583,
+    "grass_color": 4800572,
+    "foliage_color": 4077106,
+    "particle": {
+      "options": {
+        "type": "minecraft:ash"
+      },
+      "probability": 0.001
+    }
+  },
+  "spawners": {
+    "ambient": [
+      {
+        "type": "otherworld:phlymp",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "otherworld:whisp",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "axolotls": [],
+    "creature": [
+    ],
+    "misc": [],
+    "monster": [],
+    "underground_water_creature": [],
+    "water_ambient": [],
+    "water_creature": []
+  },
+  "spawn_costs": {},
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
+  "features": [
+    [],
+    [
+      "otherworld:deepwoods_water_pool_placed"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "otherworld:deepstone_iron_ores_placed",
+      "otherworld:deepstone_coal_ores_placed"
+    ],
+    [],
+    [],
+    [
+      "otherworld:trees_charred_woods_placed",
+      "minecraft:patch_grass_taiga",
+      "minecraft:patch_dead_bush_2",
+      "minecraft:brown_mushroom_old_growth",
+      "minecraft:red_mushroom_old_growth",
+      "minecraft:brown_mushroom_normal",
+      "minecraft:red_mushroom_normal"
+    ],
+    []
+  ]
+}

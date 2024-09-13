@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "otherworld:rosegrass_block",
+    "otherworld:rose_quartz_soil",
+    "otherworld:rose_quartz_farmland",
+    "otherworld:enchanted_soil",
+    "otherworld:mystic_moss",
+    "otherworld:cindergrass_block",
+    "otherworld:ash_block",
+    "otherworld:soot_block",
+    "otherworld:granular_ice",
+    "otherworld:corrupted_soul_sand",
+    "otherworld:sunken_souls"
+  ]
+}

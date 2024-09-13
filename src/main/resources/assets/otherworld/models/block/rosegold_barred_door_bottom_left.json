@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/door_bottom_left",
+  "textures": {
+    "bottom": "otherworld:block/roseia/rosegold_bar_door_bottom",
+    "top": "otherworld:block/roseia/rosegold_bar_door_top"
+  },
+  "render_type": "cutout"
+}

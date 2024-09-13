@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "otherworld:block/glaceia/frostsilt",
+    "up": "otherworld:block/glaceia/permafrost_top",
+    "north": "otherworld:block/glaceia/permafrost_side",
+    "east": "#north",
+    "south": "#north",
+    "west": "#north",
+    "particle": "#down"
+  }
+}

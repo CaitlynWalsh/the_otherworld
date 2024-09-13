@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "otherworld:block/underlands/soulberry_bush_stage0"
+  },
+  "render_type": "cutout"
+}

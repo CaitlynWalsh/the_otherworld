@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "otherworld:frozen_beef"
+  },
+  "result": "minecraft:beef",
+  "experience": 0.35,
+  "cookingtime": 100
+}

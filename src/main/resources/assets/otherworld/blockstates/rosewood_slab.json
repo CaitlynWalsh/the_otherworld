@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "otherworld:block/rosewood_slab"
+    },
+    "type=double": {
+      "model": "otherworld:block/rosewood_planks"
+    },
+    "type=top": {
+      "model": "otherworld:block/rosewood_slab_top"
+    }
+  }
+}

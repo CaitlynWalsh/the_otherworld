@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "otherworld:block/enchantia/majia_poppy"
+  },
+  "render_type": "cutout"
+}

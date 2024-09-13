@@ -1,0 +1,7 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "otherworld:block/roseia/roserye_stage_6"
+  },
+  "render_type": "cutout"
+}

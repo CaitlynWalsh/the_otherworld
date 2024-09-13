@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "otherworld:rosewood_stairs",
+    "otherworld:redspruce_stairs",
+    "otherworld:mystwood_stairs",
+    "otherworld:cinderbark_stairs",
+    "otherworld:icewood_stairs",
+    "otherworld:willow_stairs"
+  ]
+}

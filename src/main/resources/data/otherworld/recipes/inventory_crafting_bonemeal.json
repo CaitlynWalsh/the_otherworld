@@ -1,0 +1,15 @@
+{
+  "type": "otherworld:inventory_crafting",
+  "ingredients": [
+    {
+      "tag": "otherworld:craft_to_bonemeal"
+    }
+  ],
+  "amounts": [
+    9
+  ],
+  "result": {
+    "item": "minecraft:bone_meal",
+    "count": 1
+  }
+}

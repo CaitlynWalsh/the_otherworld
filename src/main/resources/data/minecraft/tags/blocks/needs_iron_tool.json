@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "otherworld:topaz_ore",
+    "otherworld:jade_ore",
+    "otherworld:sapphire_ore",
+    "otherworld:rosegold_ore",
+    "otherworld:opal_ore",
+    "otherworld:crimson_diamond_ore"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "otherworld:block/cinderbark_slab"
+    },
+    "type=double": {
+      "model": "otherworld:block/cinderbark_planks"
+    },
+    "type=top": {
+      "model": "otherworld:block/cinderbark_slab_top"
+    }
+  }
+}

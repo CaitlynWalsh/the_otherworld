@@ -1,0 +1,78 @@
+{
+  "temperature": 2,
+  "downfall": 0,
+  "has_precipitation": false,
+  "effects": {
+    "sky_color": 15372606,
+    "fog_color": 12872507,
+    "water_color": 2697512,
+    "water_fog_color": 2039583,
+    "grass_color": 2170652,
+    "foliage_color": 2170652,
+    "particle": {
+      "options": {
+        "type": "minecraft:ash"
+      },
+      "probability": 0.005
+    }
+  },
+  "spawners": {
+    "ambient": [
+      {
+        "type": "otherworld:phlymp",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 4
+      },
+      {
+        "type": "otherworld:whisp",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "axolotls": [],
+    "creature": [
+      {
+        "type": "otherworld:pyroboar",
+        "weight": 3,
+        "minCount": 2,
+        "maxCount": 4
+      }
+    ],
+    "misc": [],
+    "monster": [],
+    "underground_water_creature": [],
+    "water_ambient": [],
+    "water_creature": []
+  },
+  "spawn_costs": {},
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
+  "features": [
+    [
+      "otherworld:emberia_lava_pool_placed"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "otherworld:topaz_ores_placed"
+    ],
+    [],
+    [],
+    [
+      "otherworld:trees_emberia_placed",
+      "otherworld:cindergrass_patch_placed",
+      "otherworld:flowers_emberia_placed"
+    ],
+    []
+  ]
+}

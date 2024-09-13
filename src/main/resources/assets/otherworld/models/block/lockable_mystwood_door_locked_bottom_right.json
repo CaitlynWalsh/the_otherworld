@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/door_bottom_right",
+  "textures": {
+    "bottom": "otherworld:block/enchantia/lockable_mystwood_door_bottom_locked",
+    "top": "otherworld:block/enchantia/lockable_mystwood_door_top_locked"
+  },
+  "render_type": "cutout"
+}

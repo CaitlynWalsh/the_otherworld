@@ -1,0 +1,77 @@
+{
+  "temperature": 0.85,
+  "downfall": 0.4,
+  "has_precipitation": true,
+  "effects": {
+    "sky_color": 11116287,
+    "fog_color": 12893695,
+    "water_color": 6483198,
+    "water_fog_color": 1271409,
+    "particle": {
+      "options": {
+        "type": "minecraft:enchant"
+      },
+      "probability": 0.0015
+    }
+  },
+  "spawners": {
+    "ambient": [
+      {
+        "type": "otherworld:phlymp",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 4
+      },
+      {
+        "type": "otherworld:whisp",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "axolotls": [],
+    "creature": [
+    ],
+    "monster": [
+      {
+        "type": "otherworld:vanisher",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "underground_water_creature": [],
+    "water_ambient": [],
+    "water_creature": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
+  "features": [
+    [
+      "otherworld:enchantia_water_pool_placed"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "otherworld:opal_ores_placed"
+    ],
+    [],
+    [],
+    [
+      "otherworld:trees_enchantia_placed",
+      "otherworld:flowers_enchantia_placed",
+      "otherworld:mystweed_patch_placed"
+    ],
+    []
+  ]
+}

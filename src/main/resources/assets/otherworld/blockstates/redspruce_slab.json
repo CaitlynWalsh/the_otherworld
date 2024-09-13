@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "otherworld:block/redspruce_slab"
+    },
+    "type=double": {
+      "model": "otherworld:block/redspruce_planks"
+    },
+    "type=top": {
+      "model": "otherworld:block/redspruce_slab_top"
+    }
+  }
+}

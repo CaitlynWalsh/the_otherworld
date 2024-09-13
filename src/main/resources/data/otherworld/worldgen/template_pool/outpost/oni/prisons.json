@@ -1,0 +1,17 @@
+{
+  "name": "otherworld:outpost/oni/prisons",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "rigid",
+        "location": "otherworld:outpost/oni/prisons/prison_1",
+        "processors": {
+          "processors": []
+        }
+      }
+    }
+  ]
+}

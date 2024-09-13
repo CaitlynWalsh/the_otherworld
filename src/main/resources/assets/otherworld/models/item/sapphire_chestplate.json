@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "otherworld:item/glaceia/sapphire_chestplate"
+  }
+}

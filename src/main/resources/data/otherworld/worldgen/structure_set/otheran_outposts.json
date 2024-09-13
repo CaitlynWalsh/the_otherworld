@@ -1,0 +1,34 @@
+{
+  "structures": [
+    {
+     "structure": "otherworld:oni_outpost",
+      "weight": 5
+    },
+    {
+      "structure": "otherworld:roseian_outpost",
+      "weight": 7
+    },
+    {
+      "structure": "otherworld:fairie_outpost",
+      "weight": 6
+    },
+    {
+      "structure": "otherworld:iceian_outpost",
+      "weight": 6
+    },
+    {
+      "structure": "otherworld:emberian_outpost",
+      "weight": 5
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 281229332,
+    "exclusion_zone": {
+      "other_set": "otherworld:otheran_villages",
+      "chunk_count": 4
+    },
+    "spacing": 5,
+    "separation": 4
+  }
+}

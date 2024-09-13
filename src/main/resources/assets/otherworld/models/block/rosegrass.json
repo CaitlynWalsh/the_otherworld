@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "otherworld:block/roseia/rosegrass"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "bottom": "otherworld:block/enchantia/mystwood_log_side",
+    "front": "otherworld:block/enchantia/fairling_dwelling_front",
+    "particle": "otherworld:block/enchantia/mystwood_log_side",
+    "side": "otherworld:block/enchantia/mystwood_log_side",
+    "top": "otherworld:block/enchantia/mystwood_log_side"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "otherworld:outpost/emberian/prisons",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "rigid",
+        "location": "otherworld:outpost/emberian/prisons/prison_0",
+        "processors": {
+          "processors": []
+        }
+      }
+    }
+  ]
+}

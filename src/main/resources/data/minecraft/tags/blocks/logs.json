@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "#otherworld:rosewood_logs",
+    "#otherworld:mystwood_logs",
+    "#otherworld:redspruce_logs",
+    "#otherworld:cinderbark_logs",
+    "#otherworld:mosswood_logs",
+    "#otherworld:icewood_logs",
+    "#otherworld:willow_logs"
+  ]
+}

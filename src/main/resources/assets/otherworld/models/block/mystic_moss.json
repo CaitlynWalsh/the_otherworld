@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "otherworld:block/enchantia/enchanted_soil",
+    "up": "otherworld:block/enchantia/mysticmoss_block_top",
+    "north": "otherworld:block/enchantia/mysticmoss_block_side",
+    "east": "#north",
+    "south": "#north",
+    "west": "#north",
+    "particle": "#down"
+  }
+}

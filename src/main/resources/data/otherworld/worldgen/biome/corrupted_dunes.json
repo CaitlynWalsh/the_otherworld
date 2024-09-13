@@ -1,0 +1,77 @@
+{
+  "temperature": 0,
+  "downfall": 0,
+  "has_precipitation": false,
+  "effects": {
+    "sky_color": 3026995,
+    "fog_color": 1184790,
+    "water_color": 1184274,
+    "water_fog_color": 1184274,
+    "grass_color": 2236448,
+    "foliage_color": 1710618,
+    "particle": {
+      "options": {
+        "type": "minecraft:soul"
+      },
+      "probability": 0.0005
+    },
+    "ambient_sound": "minecraft:ambient.soul_sand_valley.loop",
+    "mood_sound": {
+      "sound": "minecraft:ambient.soul_sand_valley.mood",
+      "tick_delay": 6000,
+      "block_search_extent": 8,
+      "offset": 2
+    },
+    "additions_sound": {
+      "sound": "minecraft:ambient.soul_sand_valley.additions",
+      "tick_chance": 0.0111
+    },
+    "music": {
+      "sound": "minecraft:music.nether.soul_sand_valley",
+      "min_delay": 12000,
+      "max_delay": 24000,
+      "replace_current_music": false
+    }
+  },
+  "spawners": {
+    "ambient": [],
+    "axolotls": [],
+    "monster": [
+      {
+        "type": "minecraft:wither_skeleton",
+        "weight": 10,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "underground_water_creature": [],
+    "water_ambient": [],
+    "water_creature": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {
+    "air": [
+      "minecraft:cave"
+    ]
+  },
+  "features": [
+    [],
+    [
+      "otherworld:sunken_souls_patch_placed"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "otherworld:crimson_diamond_ores_placed"
+    ],
+    [],
+    [],
+    [],
+    [
+      "otherworld:soulberry_bush_patch_placed"
+    ]
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "otherworld:block/roseia/rose_quartz_crystal"
+  },
+  "render_type": "cutout"
+}

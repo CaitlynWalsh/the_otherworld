@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "otherworld:block/enchantia/enchanted_plum"
+  },
+  "render_type": "cutout"
+}

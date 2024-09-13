@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    "X X",
+    " X "
+  ],
+  "key": {
+    "X": {
+      "item": "otherworld:sapphire"
+    }
+  },
+  "result": {
+    "item": "otherworld:sapphire_ring",
+    "count": 2
+  }
+}

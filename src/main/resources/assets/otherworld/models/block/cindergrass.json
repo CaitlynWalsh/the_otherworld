@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "otherworld:block/emberia/cindergrass"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_farmland",
+  "textures": {
+    "dirt": "otherworld:block/enchantia/enchanted_soil",
+    "top": "otherworld:block/enchantia/enchanted_farmland_moist"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top_left",
+  "textures": {
+    "bottom": "otherworld:block/roseia/rosewood_door_bottom",
+    "top": "otherworld:block/roseia/rosewood_door_top"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "moisture=0": {
+      "model": "otherworld:block/granular_ice"
+    },
+    "moisture=1": {
+      "model": "otherworld:block/granular_ice"
+    },
+    "moisture=2": {
+      "model": "otherworld:block/granular_ice"
+    },
+    "moisture=3": {
+      "model": "otherworld:block/granular_ice"
+    },
+    "moisture=4": {
+      "model": "otherworld:block/granular_ice"
+    },
+    "moisture=5": {
+      "model": "otherworld:block/granular_ice"
+    },
+    "moisture=6": {
+      "model": "otherworld:block/granular_ice"
+    },
+    "moisture=7": {
+      "model": "otherworld:block/granular_ice"
+    }
+  }
+}

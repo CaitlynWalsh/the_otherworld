@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "otherworld:ghoul_clan",
+      "weight": 5
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 5438297,
+    "spacing": 12,
+    "separation": 10
+  }
+}

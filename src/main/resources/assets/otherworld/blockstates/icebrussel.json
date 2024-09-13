@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "otherworld:block/icebrussel_0"
+    },
+    "age=1": {
+      "model": "otherworld:block/icebrussel_0"
+    },
+    "age=2": {
+      "model": "otherworld:block/icebrussel_1"
+    },
+    "age=3": {
+      "model": "otherworld:block/icebrussel_2"
+    },
+    "age=4": {
+      "model": "otherworld:block/icebrussel_2"
+    },
+    "age=5": {
+      "model": "otherworld:block/icebrussel_3"
+    },
+    "age=6": {
+      "model": "otherworld:block/icebrussel_4"
+    },
+    "age=7": {
+      "model": "otherworld:block/icebrussel_5"
+    }
+  }
+}

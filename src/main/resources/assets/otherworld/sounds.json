@@ -1,0 +1,20 @@
+{
+  "quest_assign": {
+    "subtitle": "subtitles.otherworld.quest_assign",
+    "sounds": [
+      {
+        "name": "otherworld:quest_assign",
+        "stream": false
+      }
+    ]
+  },
+  "quest_fail":{
+    "subtitle": "subtitles.otherworld.quest_fail",
+    "sounds": [
+      {
+        "name": "otherworld:quest_fail",
+        "stream": false
+      }
+    ]
+  }
+}

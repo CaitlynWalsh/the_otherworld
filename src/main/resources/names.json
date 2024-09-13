@@ -1,0 +1,114 @@
+{
+  "human": {
+    "male": [
+      "Juan", "Santiago", "Salvador", "Julio", "Miguel", "Antonio", "Alfonso", "Ander", "Elias", "Saul", "Luca", "Sergio", "Ramon", "Francisco", "Ismael", "Marti", "Gonzalo", "Rafael", "Javier", "Alberto",
+      "Rayan", "Jaume", "Andres", "Dario", "Rodrigo", "Thiago", "Arturo", "Mauro", "Aiser", "Gabriel", "Miquel", "Gael", "Fernando", "Iago", "Sebastian", "Bruno", "Oriol", "Ricardo", "Carlos", "Pedro"
+    ],
+    "female": [
+      "Sonia", "Aida", "Cecilia", "Martina", "Bella", "Mara", "Silvia", "Nadia", "Carlota", "Noemi", "Valentina", "Elena", "Alejandra", "Adara", "Amanda", "Angela", "Elia", "Galana", "Martina", "Helena",
+      "Erika", "Blanka", "Estela", "Mireia", "Nuria", "Avila", "Yasmina", "Gabriela", "Noelia", "Ines", "Gemma", "Sandra", "Esma", "Aroura", "Nayara", "Aitana", "Lorena", "Yazia", "Vanessa", "Rosa"
+    ]
+  },
+  "roseian": {
+    "male": [
+      "Roselo", "Crysten", "Fionel", "Quartzel", "Rosovan", "Rosamen", "Rosevelt", "Bellos", "Henrose", "Jewelien", "Krysart", "Quartez",
+      "Rosenix", "Pinkarian", "Gemelio", "Crystalon", "Quartzion", "Rosario", "Roseonix", "Quartzian", "Rosentus", "Gemheart", "Rosemarc",
+      "Quartzwell", "Rosidian"
+    ],
+    "female": [
+      "Rosalia", "Crystal", "Amelia", "Rosanna", "Healen", "Rosabelle", "Crystanne", "Fiona", "Fuchsia", "Cheryl", "Chloe",
+      "Belle", "Barbara", "Harmony", "June", "Mums", "Quartzara", "Crystalyn", "Pinkara", "Gemara", "Quartessa", "Rosella",
+      "Rosyn", "Quartzara", "Rosette"
+    ]
+  },
+  "oni": {
+    "male": [
+      "Vogis", "Ockk", "Logfur", "Glarrug", "Mann", "Aerr", "Uglad", "Rhivaeld", "Sgad", "Bruk", "Birgrid", "Khid", "Snolser",
+      "Unrantold", "Llangerr", "Dhorngukr", "Fefsteg", "Thaell", "Grilfrol", "Skostrurngik", "Drernger", "Mivein"
+    ],
+    "female": [
+      "Thael", "Jann", "Thref", "Bina", "Gwuddei", "Rovah", "Dann", "Hoh", "Svilkeh", "Kilga", "Gethrea", "Brusbath", "Thrulvunn",
+      "Frufuti", "Shifla", "Tafma", "Gwana", "Glesgog", "Vaymaeth", "Rhen", "Ocka", "Asda"
+    ]
+  },
+  "fairie": {
+    "male": [
+      "Alden", "Bryant", "Caelum", "Dorian", "Elric", "Faelan", "Gideon", "Hawthorne", "Iliad", "Jasper", "Aetherion", "Luminaris",
+      "Verdantus", "Celestius", "Enchantra", "Sylvanis", "Zephyrion", "Aurorius", "Etherealis", "Rivendell", "Galadriel", "Thistledown"
+    ],
+    "female": [
+      "Aria", "Celestia", "Dahlia", "Elysia", "Faye", "Gwenyth", "Isolde", "Juniper", "Fayelora", "Seraphina", "Staria", "Luminae",
+      "Briarrose", "Elowen", "Willowisp", "Auroraella", "Silvania", "Melodyra", "Lorelei"
+    ]
+  },
+  "emberian": {
+    "male": [
+      "Flaron", "Ashon", "Basaln", "Brun", "Volcar", "Smolden", "Incenero", "Blaize", "Flaris", "Pyron", "Lux", "Arson",
+      "Lumen", "Magmar", "Emper", "Lucis", "Flash", "Magnos", "Burnus", "Scalder", "Ignight", "Umber"
+    ],
+    "female": [
+      "Flarona", "Basalia", "Feula", "Ashla", "Nova", "Volca", "Ignea", "Volta", "Fye", "Pyra", "Fusilis", "Sola", "Astra",
+      "Kindlea", "Lavia", "Lumina", "Sigmis", "Incendia", "Feugia", "Lustris", "Tempera", "Aura", "Coale"
+    ]
+  },
+  "iceian": {
+    "male": [
+      "Flayke", "Flurris", "Lanche", "Thawe", "Firn", "Melte", "Blizen", "Avalan", "Frosst", "Glacei", "Chillus", "Frosten",
+      "Glacius", "Snowdon", "Icicleon", "Frigidon", "Brryce", "Chillbert", "Avalonice", "Icymere", "Blizzaro", "Frosthelm",
+      "Hailen", "Polaris"
+    ],
+    "female": [
+      "Glace", "Blizz", "Iglia", "Glayze", "Gliss", "Glen", "Hayle", "Iciclis", "Avala", "Bayle", "Sapphia", "Pura", "Frosta",
+      "Icelyn", "Avalara", "Snowelle", "Crystalis", "Icesa", "Frostina", "Snowena", "Blizzara", "Chillara", "Snowfira",
+      "Berylith", "Glacialine"
+    ]
+  },
+  "ghoul": {
+    "male": [
+      "Spyte", "Nox", "Malos", "Necros", "Letos", "Noxis", "Bane", "Ocus", "Gore", "Cruor"
+    ],
+    "female": [
+      "Eclipse", "Vilis", "Twileigh", "Iniq", "Necra"
+    ]
+  },
+  "oniman": {
+    "male": [
+      "Juan", "Santiago", "Salvador", "Julio", "Miguel", "Antonio", "Alfonso", "Ander", "Elias", "Saul", "Luca", "Sergio", "Ramon", "Francisco", "Ismael", "Marti", "Gonzalo", "Rafael", "Javier", "Alberto",
+      "Vogis", "Ockk", "Logfur", "Glarrug", "Mann", "Aerr", "Uglad", "Rhivaeld", "Sgad", "Bruk", "Birgrid", "Khid", "Snolser", "Unrantold", "Llangerr", "Dhorngukr", "Fefsteg", "Thaell", "Grilfrol", "Skostrurngik", "Drernger", "Mivein",
+      "Rayan", "Jaume", "Andres", "Dario", "Rodrigo", "Thiago", "Arturo", "Mauro", "Aiser", "Gabriel", "Miquel", "Gael", "Fernando", "Iago", "Sebastian", "Bruno", "Oriol", "Ricardo", "Carlos", "Pedro"
+    ],
+    "female": [
+      "Sonia", "Aida", "Cecilia", "Martina", "Bella", "Mara", "Silvia", "Nadia", "Carlota", "Noemi", "Valentina", "Elena", "Alejandra", "Adara", "Amanda", "Angela", "Elia", "Galana", "Martina", "Helena",
+      "Thael", "Jann", "Thref", "Bina", "Gwuddei", "Rovah", "Dann", "Hoh", "Svilkeh", "Kilga", "Gethrea", "Brusbath", "Thrulvunn", "Frufuti", "Shifla", "Tafma", "Gwana", "Glesgog", "Vaymaeth", "Rhen", "Ocka", "Asda",
+      "Erika", "Blanka", "Estela", "Mireia", "Nuria", "Avila", "Yasmina", "Gabriela", "Noelia", "Ines", "Gemma", "Sandra", "Esma", "Aroura", "Nayara", "Aitana", "Lorena", "Yazia", "Vanessa", "Rosa"
+    ]
+  },
+  "fairian": {
+    "male": [
+      "Roselo", "Crysten", "Fionel", "Quartzel", "Rosovan", "Rosamen", "Rosevelt", "Bellos", "Henrose", "Jewelien", "Krysart", "Quartez",
+      "Rosenix", "Pinkarian", "Gemelio", "Crystalon", "Quartzion", "Rosario", "Roseonix", "Quartzian", "Rosentus", "Gemheart", "Rosemarc",
+      "Quartzwell", "Rosidian", "Alden", "Bryant", "Caelum", "Dorian", "Elric", "Faelan", "Gideon", "Hawthorne", "Iliad", "Jasper",
+      "Aetherion", "Luminaris", "Verdantus", "Celestius", "Enchantra", "Sylvanis", "Zephyrion", "Aurorius", "Etherealis", "Rivendell",
+      "Galadriel", "Thistledown"
+    ],
+    "female": [
+      "Rosalia", "Crystal", "Amelia", "Rosanna", "Healen", "Rosabelle", "Crystanne", "Fiona", "Fuchsia", "Cheryl", "Chloe",
+      "Belle", "Barbara", "Harmony", "June", "Mums", "Quartzara", "Crystalyn", "Pinkara", "Gemara", "Quartessa", "Rosella",
+      "Rosyn", "Quartzara", "Rosette", "Aria", "Celestia", "Dahlia", "Elysia", "Faye", "Gwenyth", "Isolde", "Juniper",
+      "Fayelora", "Seraphina", "Staria", "Luminae", "Briarrose", "Elowen", "Willowisp", "Auroraella", "Silvania", "Melodyra",
+      "Lorelei"
+    ]
+  },
+  "oasian": {
+    "male": [
+      "Vineus", "Thornley", "Petalius", "Bloomer", "Verdant", "Stemrick", "Leafar", "Budrick", "Mossley",
+      "Rootan", "Spriggle", "Petalon", "Grovian", "Twigson", "Blossomir", "Branchard", "Seedrick", "Briarthorn",
+      "Bloomsworth"
+    ],
+    "female": [
+      "Floralia", "Rosevine", "Lilifern", "Petalina", "Ivybloom", "Daisyroot", "Lavendera", "Thornella", "Violetta",
+      "Tulipia", "Blossomia", "Meadowrose", "Poppyfern", "Azalea", "Marigolda", "Hollyvine", "Lilyrose", "Primelia",
+      "Sylvanella", "Dahlia"
+    ]
+  }
+}

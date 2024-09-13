@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "otherworld:block/oasia/mosswood_log_top",
+    "side": "otherworld:block/oasia/mosswood_log_side"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "temperature": 0.7,
+  "downfall": 0.4,
+  "has_precipitation": true,
+  "effects": {
+    "sky_color": 15576575,
+    "fog_color": 16176895,
+    "water_color": 10586879,
+    "water_fog_color": 6573256,
+    "particle": {
+      "options": {
+        "type": "minecraft:end_rod"
+      },
+      "probability": 0.0015
+    }
+  },
+  "spawners": {
+    "ambient": [
+      {
+        "type": "otherworld:phlymp",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 4
+      },
+      {
+        "type": "otherworld:whisp",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "axolotls": [],
+    "creature": [
+      {
+        "type": "otherworld:crystling",
+        "weight": 3,
+        "minCount": 1,
+        "maxCount": 3
+      },
+      {
+        "type": "otherworld:roseian_rabbit",
+        "weight": 3,
+        "minCount": 2,
+        "maxCount": 3
+      }
+    ],
+    "misc": [],
+    "monster": [],
+    "underground_water_creature": [],
+    "water_ambient": [],
+    "water_creature": []
+  },
+  "spawn_costs": {},
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
+  "features": [
+    [
+      "otherworld:roseia_water_pool_placed"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "otherworld:rosegold_ores_placed"
+    ],
+    [],
+    [],
+    [
+      "otherworld:trees_roseia_placed",
+      "otherworld:rosegrass_patch_placed",
+      "otherworld:flowers_roseia_placed"
+    ],
+    []
+  ]
+}
